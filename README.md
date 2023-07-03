@@ -1,1 +1,1 @@
-# python_intuit_quickbook-project
+# python intuit quickbook project
